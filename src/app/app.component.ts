@@ -3,8 +3,8 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
+  styleUrls: [ '../../node_modules/@progress/kendo-theme-default/dist/all.css' ]
 })
 export class AppComponent {
-  title = 'app works!';
+  title = 'Making an Angular App';
 }
