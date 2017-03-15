@@ -1,4 +1,5 @@
-# AngularAppStyling
+# Kendo UI ♥️ Angular
+### A base application for writing Angular Apps with Kendo UI for Angular native UI components.
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.26.
 
